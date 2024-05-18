@@ -1,0 +1,38 @@
+"""1
+Create a base class Account (Acc_Holder_Name, Acc_Holder_Contact_No).
+ 
+Derive a two classes as Saving_Account(S_Acc_No., Balance) and Current_Account( C_Acc_No., Balance) from Account.
+ 
+Write a menu driven program to perform the following functions:
+1) Accept the details for 'n' saving account holders. 
+2) display the details of 'n' saving account holders. 
+3) Display the account details whose account balance is less than 10000 for saving account
+4) Accept the details for 'n' current account holders. 
+5) display the details of 'n' current account holders. 
+6) Display the account details whose account balance is less than 5000 for current account
+"""
+
+'''2
+Write a program to define a user defined function RemoveDuplicateWords( ). The function should return the string after removing all duplicate words from the string.
+'''
+
+'''3
+Write a Python program to define a user defined function ispangram( ). The function should return if the string is pangram otherwise return False.
+Hint:
+A pangram is a sentence containing every letter in the English Alphabet.
+Input: The quick brown fox jumps over the lazy dog
+Output: The given string is pangram
+'''
+
+'''4
+Create a Base class Train containing members as Train_no, Train_Name.
+Derive a class Route (Route_id, Source, Destination) from Train class. 
+Derive a class Reservation(Number_Of_Seats, Train_Class, Fare, Travel_Date) from Route.
+Write a menu driven program to perform the following functions
+1) Enter  details of reservations 
+2) Display details of all reservations with total fare
+3) Display reservation details of a specified Train class
+'''
+
+
+

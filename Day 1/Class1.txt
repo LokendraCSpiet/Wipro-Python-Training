@@ -1,0 +1,105 @@
+Variable : It can be defined as a name given to memory location to store the value in it. The
+value of a variable may vary during the execution of the program.
+ 
+a = 10
+a = a+10
+ 
+x = 10.5
+ 
+x = "Wipro"
+ 
+y = 100
+Y = 200
+ 
+constant: We cannot change the value of a constant variable during the execution of the program.
+ 
+Keywords: They are also called as reserved words which have special meaning given to it. All the keywords in python are in lowercase except 3 keywords that is True , False and None.
+ 
+Data Type: It is used to specify which type of data the variable will store.
+ 
+Identifiers: It is a set of rules we have to follow while giving the name to a variable , function , class , object and so on.
+ 
+a) It should always start with alphabet or _
+ 
+Example:
+ab1 Valid
+1ab Invalid
+_ab Valid
+a_b Valid
+a Valid
+ 
+b) Only Underscore(_) special character is allowed.
+ 
+Example:
+a_b valid
+a$b Invalid
+_ Valid
+ 
+c) Keywords cannot be used as an identifier
+ 
+Example:
+if Invalid
+if_ Valid
+for Invalid
+_for Valid
+ 
+d) It can be of any length
+ 
+ 
+Functions:
+ 
+a) built in function:
+input( ): It is used to accept the value from the user and input() always accept the value in
+the form of String.
+ 
+ 
+print( ):
+ 
+b) user defined function:
+ 
+Comments:
+ 
+Single Line Comment: #
+ 
+MultiLine Comment: start with ''' and end with '''
+
+
+
+
+FUNCTION - 
+In Python Function in define in module
+Two types of fn - 
+1.) Built-In Function -
+    ex. - print(),input()
+2.) User Defined Function
+
+
+
+
+
+- Write an algorithm to calculate the factorial of a number
+ 
+Solution:
+ 
+Step 1) Start
+ 
+Step 2) Declare i=1 , n , fact = 1
+ 
+Step 3) Read/Accept n
+ 
+Step 4) if i<=n then goto next step
+
+	else goto step 7
+ 
+Step 5) fact= fact * i		
+ 
+step 6) i = i+1 and goto step 4
+ 
+step 7) print fact
+ 
+step 8) Stop
+
+# Write an algorithm to print the factors of a number
+# Write an algorithm to print the multiplication table of a number
+
+

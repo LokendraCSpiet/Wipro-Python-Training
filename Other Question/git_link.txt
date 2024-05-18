@@ -1,0 +1,2 @@
+Other Question link -
+https://github.com/baski910/python_chapterwise_notebooks/blob/main/list_and_tuple_datatype/problems/problem1.txt

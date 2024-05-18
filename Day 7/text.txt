@@ -1,0 +1,26 @@
+class
+    - member function
+    - 
+--------------------------
+
+class:
+A class can be defined as a collection of data members and member function.
+ 
+Syntax:
+class classname:
+	# Member function and data member of the class
+ 
+ 
+object:
+It is used to access the data members and to invoke the member functions of the class.
+Once the class is created we can create N number of objects of the same class.
+ 
+How to create the object ?
+objectname = classname()
+ 
+How to invoke the member function of the class?
+objectname.functionname( )
+ 
+Special member function ?
+ 
+__init__( ): This function will be invoked automatically when the object of the class is created. It is used to initialize the data members/object of the class.

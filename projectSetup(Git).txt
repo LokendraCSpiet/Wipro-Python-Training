@@ -1,0 +1,11 @@
+Project Setup Git - 
+git config --global user.name "username"
+git config --global user.email "user@mail"
+git init
+git remote add origin --project url--
+
+git add .
+git commit -m "commit name"
+git push origin master/main
+
+

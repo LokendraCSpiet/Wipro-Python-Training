@@ -1,0 +1,44 @@
+'''
+Write a program to accept the string from the user and display the lenght of
+each word
+Input:
+Welcome to training session
+Output:
+welcome = 7
+to = 2
+training = 8
+session = 7
+------------------------------------------------------------------------------
+Write a program to print the palindrome words from the string
+Input:Welcome madam to aba classes
+Output:
+madam aba
+-------------------------------------------------------------------------------
+Write a program to accept the string from the user and print the following pattern
+Input: Hello
+Output:
+H
+He
+Hel
+Hell
+Hello
+------------------------------------------------------------------------------
+Accept the string from the user and print the word with highest length
+Input: Welcome to session in wipro
+Output: Welcome Session
+'''
+
+
+#Displaying the words with highest length
+ 
+s = input("Enter the String ")
+ 
+l= s.split( )
+m = 0
+for i in l:
+    if len(i) > m:
+        m = len(i)
+ 
+for i in l:
+    if len(i) == m:
+        print(i,end=" ")

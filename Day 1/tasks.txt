@@ -1,0 +1,7 @@
+1.Program to find maximum of 2 numbers
+2.Program to find minimum of 3 numbers
+3.Program to accept the number from the user and check whether number is even or odd
+4.Program to accpet the  number and check whether it is positive or negative
+
+# Write an algorithm to print the factors of a number
+# Write an algorithm to print the multiplication table of a number
